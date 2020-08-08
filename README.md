@@ -1,2 +1,2 @@
 # Proffy
-Projeto desenvolvido na Next Level Week 2 - Rocketsea
+Projeto desenvolvido na Next Level Week 2 - Rocketseat
