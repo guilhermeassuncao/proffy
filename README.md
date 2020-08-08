@@ -1,2 +1,2 @@
 # Proffy
- NLW2 - Proffy
+Projeto desenvolvido na Next Level Week 2 - Rocketsea
