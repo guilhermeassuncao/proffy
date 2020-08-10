@@ -1,0 +1,24 @@
+body {
+    align-items: baseline;
+}
+
+#page-success {
+    background: var(--color-primary);
+}
+
+#page-success #container {
+    text-align: center;
+    align-items: flex-start;
+}
+
+#page-success .check {
+    margin-top: 20rem;
+    margin-bottom: 5rem;
+}
+
+#page-success .text-h1 {
+    color: var(--color-title-in-primary);
+    font-weight: 700;
+    font-size: 5rem;
+    margin-bottom: 2rem;
+}

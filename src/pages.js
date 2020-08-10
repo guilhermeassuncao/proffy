@@ -2,6 +2,10 @@ const Database = require('./database/db');
 
 const {subjects, weekdays, getSubject, convertHoursTominutes} = require('./utils/format');
 
+function pageSuccess(req, res) {
+    return res.render('success.html')
+}
+
 function pageLanding(req, res) {
     return res.render('index.html')
 }
@@ -91,6 +95,7 @@ async function saveClasses(req, res) {
 
 module.exports = {
     pageLanding,
+    pageSuccess,
     pageStudy,
     pageGiveClasses,
     saveClasses
