@@ -9,7 +9,6 @@
 
 <br>
 <br>
----
 
 ## Sobre :bookmark_tabs:
 
@@ -29,7 +28,17 @@ Professor - Mayk Brito
 - NodeJS
 - SQLite
 
-<br>
+## Tested in
+
+- MacOS
+- Linux Ubuntu 18.04
+- Windows 10
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+---
 
 ## Licença :green_book:
 
