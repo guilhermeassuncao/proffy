@@ -7,7 +7,7 @@
   <img src="public/images/logo-purple.svg" alt="Proffy">
 </div>
 
----
+<br>
 
 ## :bookmark_tabs: Sobre
 
@@ -17,7 +17,7 @@ Intituição - Rocketseat
 
 Professor - Mayk Brito
 
----
+<br>
 
 ## :hammer: Tecnologias
 
@@ -27,7 +27,7 @@ Professor - Mayk Brito
 - NodeJS
 - SQLite
 
----
+<br>
 
 ## :green_book: Licença 
 
