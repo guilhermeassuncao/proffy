@@ -9,7 +9,7 @@
 
 ---
 
-## Sobre :bookmark_tabs:
+## :bookmark_tabs: Sobre
 
 <br>
 
@@ -21,7 +21,7 @@ Professor - Mayk Brito
 
 ---
 
-## Tecnologias :hammer:
+## :hammer: Tecnologias
 
 <br>
 
@@ -33,7 +33,7 @@ Professor - Mayk Brito
 
 ---
 
-## Licença :green_book:
+## :green_book: Licença 
 
 <br>
 
