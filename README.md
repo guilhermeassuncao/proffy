@@ -9,8 +9,6 @@
 
 ---
 
-<br>
-
 ## :bookmark_tabs: Sobre
 
 Projeto desenvolvido na Next Level Week 2
@@ -21,8 +19,6 @@ Professor - Mayk Brito
 
 ---
 
-<br>
-
 ## :hammer: Tecnologias
 
 - HTML5
@@ -32,8 +28,6 @@ Professor - Mayk Brito
 - SQLite
 
 ---
-
-<br>
 
 ## :green_book: Licença 
 
