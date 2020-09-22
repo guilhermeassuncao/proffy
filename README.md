@@ -31,9 +31,7 @@ Professor - Mayk Brito
 
 ## :green_book: Licença 
 
-<div align="left">
-    <b>Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.</b>
-</div>
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 <br>
 
