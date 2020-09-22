@@ -42,7 +42,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <br>
 
 <p align="center">
-
-**Desenvolvido por Guilherme Assunção**
-
+__Desenvolvido por Guilherme Assunção__
 </p>
