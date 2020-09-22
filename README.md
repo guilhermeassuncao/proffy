@@ -10,7 +10,6 @@
 <br>
 <br>
 ---
-
 ## Sobre :bookmark_tabs:
 
 Projeto desenvolvido na Next Level Week 2
@@ -20,7 +19,6 @@ Intituição - Rocketseat
 Professor - Mayk Brito
 
 <br>
----
 
 ## Tecnologias :hammer:
 
@@ -31,13 +29,11 @@ Professor - Mayk Brito
 - SQLite
 
 <br>
----
 
 ## Licença :green_book:
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 <br>
----
 
 **Desenvolvido por Guilherme Assunção**
