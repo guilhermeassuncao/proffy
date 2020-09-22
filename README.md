@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <img src="public/images/logo.svg">
+  <img src="public/images/logo-purple.svg">
 </div>
 
 <br>
