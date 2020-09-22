@@ -4,7 +4,6 @@ const server = express()
 
 const {
     pageLanding,
-    pageSuccess,
     pageStudy,
     pageGiveClasses,
     saveClasses
