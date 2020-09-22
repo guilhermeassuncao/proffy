@@ -28,16 +28,6 @@ Professor - Mayk Brito
 - NodeJS
 - SQLite
 
-## Tested in
-
-- MacOS
-- Linux Ubuntu 18.04
-- Windows 10
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
 ---
 
 ## Licença :green_book:
