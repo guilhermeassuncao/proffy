@@ -11,8 +11,6 @@
 
 ## :bookmark_tabs: Sobre
 
-<br>
-
 Projeto desenvolvido na Next Level Week 2
 
 Intituição - Rocketseat
@@ -22,8 +20,6 @@ Professor - Mayk Brito
 ---
 
 ## :hammer: Tecnologias
-
-<br>
 
 - HTML5
 - CSS3
@@ -35,12 +31,8 @@ Professor - Mayk Brito
 
 ## :green_book: Licença 
 
-<br>
-
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 <br>
 
-<p align="center">
-__Desenvolvido por Guilherme Assunção__
-</p>
+**Desenvolvido por Guilherme Assunção**
