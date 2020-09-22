@@ -9,8 +9,6 @@
 
 ---
 
-<br>
-
 ## Sobre :bookmark_tabs:
 
 <br>
@@ -23,8 +21,6 @@ Professor - Mayk Brito
 
 ---
 
-<br>
-
 ## Tecnologias :hammer:
 
 <br>
@@ -36,8 +32,6 @@ Professor - Mayk Brito
 - SQLite
 
 ---
-
-<br>
 
 ## Licença :green_book:
 
