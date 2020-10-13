@@ -1,7 +1,6 @@
 # Proffy
 
 <br>
-<br>
 
 <div align="center">
   <img src="figma/Home.png" alt="Proffy">
