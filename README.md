@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <img src="public/images/logo-purple.svg" alt="Proffy">
+  <img src="figma/Home.png" alt="Proffy">
 </div>
 
 <br>
