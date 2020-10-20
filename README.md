@@ -18,12 +18,14 @@ Professor - Mayk Brito
 
 <br>
 
-## :hammer: Tecnologias
+## :rocket: Tecnologias
 
 - HTML5
 - CSS3
 - JavaScript
 - NodeJS
+- Express
+- Nunjucks
 - SQLite
 
 <br>
