@@ -1,11 +1,11 @@
 {
-  "name": "nlw",
+  "name": "proffy",
   "scripts": {
     "start": "node src/server.js"
   },
   "dependencies": {
     "express": "^4.17.1",
-    "nunjucks": "^3.2.2",
-    "sqlite-async": "^1.1.0"
+    "nunjucks": "^3.2.3",
+    "sqlite-async": "^1.1.1"
   }
 }
