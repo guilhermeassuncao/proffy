@@ -1,0 +1,11 @@
+{
+  "name": "nlw",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.3",
+    "sqlite-async": "^1.1.1"
+  }
+}
