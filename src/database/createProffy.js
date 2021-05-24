@@ -1,4 +1,4 @@
-module.exports =  async function(db, {proffyValue, classValue, classScheduleValues}) {
+module.exports = async function (db, { proffyValue, classValue, classScheduleValues }) {
     //Inserir dados na table de proffys
     const insertedProffy = await db.run(`
         INSERT INTO proffys (
@@ -14,8 +14,8 @@ module.exports =  async function(db, {proffyValue, classValue, classScheduleValu
         );
     `);
 
-    const proffy_id = insertedProffy.lastID
-    
+    const proffy_id = insertedProffy.lastID;
+
     //Inserir dados na table de classes
     const insertedClass = await db.run(`
         INSERT INTO classes (
@@ -29,7 +29,7 @@ module.exports =  async function(db, {proffyValue, classValue, classScheduleValu
         );
     `);
 
-    const class_id = insertedClass.lastID
+    const class_id = insertedClass.lastID;
 
     const insertedAllClassScheduleValues = classScheduleValues.map((classScheduleValue) => {
         return db.run(`
