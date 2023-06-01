@@ -20,17 +20,17 @@ Professor - Mayk Brito
 
 ## :rocket: Tecnologias
 
-- HTML5
-- CSS3
-- JavaScript
-- NodeJS
-- Express
-- Nunjucks
-- SQLite
+-   HTML5
+-   CSS3
+-   JavaScript
+-   NodeJS
+-   Express
+-   Nunjucks
+-   SQLite
 
 <br>
 
-## :green_book: Licença 
+## :green_book: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 

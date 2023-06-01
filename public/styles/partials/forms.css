@@ -33,7 +33,7 @@
 
 .input-block:focus-within::after,
 .textarea-block:focus-within::after {
-    content: "";
+    content: '';
     width: calc(100% - 3.2rem);
     height: 2px;
     background: var(--color-primary-light);

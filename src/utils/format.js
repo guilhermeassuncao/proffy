@@ -1,6 +1,16 @@
-const subjects = ["Artes", "Biologia", "Ciências", "Educação Física", "Física", "Geografia", "História", "Português", "Química"];
+const subjects = [
+    'Artes',
+    'Biologia',
+    'Ciências',
+    'Educação Física',
+    'Física',
+    'Geografia',
+    'História',
+    'Português',
+    'Química',
+];
 
-const weekdays = ["Domingo", "Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado"];
+const weekdays = ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado'];
 
 function getSubject(subjectNumber) {
     const position = subjectNumber - 1;
@@ -8,7 +18,7 @@ function getSubject(subjectNumber) {
 }
 
 function convertHoursTominutes(time) {
-    const [hours, minutes] = time.split(":");
+    const [hours, minutes] = time.split(':');
     return Number(hours * 60 + minutes);
 }
 

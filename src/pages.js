@@ -1,16 +1,16 @@
-const Database = require("./database/db");
+const Database = require('./database/db');
 
-const { subjects, weekdays, getSubject, convertHoursTominutes } = require("./utils/format");
+const { subjects, weekdays, getSubject, convertHoursTominutes } = require('./utils/format');
 
 function pageLanding(req, res) {
-    return res.render("index.html");
+    return res.render('index.html');
 }
 
 async function pageStudy(req, res) {
     const filters = req.query;
 
     if (!filters.subject || !filters.weekday || !filters.time) {
-        return res.render("study.html", { filters, subjects, weekdays });
+        return res.render('study.html', { filters, subjects, weekdays });
     }
 
     const timeToMinutes = convertHoursTominutes(filters.time);
@@ -38,18 +38,18 @@ async function pageStudy(req, res) {
             proffy.subject = getSubject(proffy.subject);
         });
 
-        return res.render("study.html", { proffys, filters, subjects, weekdays });
+        return res.render('study.html', { proffys, filters, subjects, weekdays });
     } catch (error) {
         console.log(error);
     }
 }
 
 function pageGiveClasses(req, res) {
-    return res.render("give-classes.html", { subjects, weekdays });
+    return res.render('give-classes.html', { subjects, weekdays });
 }
 
 async function saveClasses(req, res) {
-    const createProffy = require("./database/createProffy");
+    const createProffy = require('./database/createProffy');
 
     const proffyValue = {
         name: req.body.name,
@@ -75,11 +75,11 @@ async function saveClasses(req, res) {
         const db = await Database;
         await createProffy(db, { proffyValue, classValue, classScheduleValues });
 
-        let queryString = "?subject=" + req.body.subject;
-        queryString += "?weekday=" + req.body.weekday[0];
-        queryString += "?time=" + req.body.time_from[0];
+        let queryString = '?subject=' + req.body.subject;
+        queryString += '?weekday=' + req.body.weekday[0];
+        queryString += '?time=' + req.body.time_from[0];
 
-        return res.redirect("/study" + queryString);
+        return res.redirect('/study' + queryString);
     } catch (error) {
         console.log(error);
     }
